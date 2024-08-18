@@ -11,3 +11,4 @@ public
 cypress/screenshots
 cypress/videos
 *.ignore*
+ignore
